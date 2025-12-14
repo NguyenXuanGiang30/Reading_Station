@@ -1,0 +1,1 @@
+// TODO: Define Friend entity

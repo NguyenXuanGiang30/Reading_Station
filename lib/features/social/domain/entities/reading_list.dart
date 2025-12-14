@@ -1,0 +1,1 @@
+// TODO: Define ReadingList entity (FR8.2)

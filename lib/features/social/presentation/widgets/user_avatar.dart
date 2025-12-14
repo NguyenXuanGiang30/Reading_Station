@@ -1,0 +1,1 @@
+// TODO: Implement user avatar widget

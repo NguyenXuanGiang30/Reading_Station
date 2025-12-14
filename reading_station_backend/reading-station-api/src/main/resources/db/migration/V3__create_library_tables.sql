@@ -1,0 +1,2 @@
+-- V3: Create library tables
+-- TODO: Add book, user_book, custom_shelf, reading_session tables

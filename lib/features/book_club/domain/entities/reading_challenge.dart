@@ -1,0 +1,1 @@
+// TODO: Define ReadingChallenge entity

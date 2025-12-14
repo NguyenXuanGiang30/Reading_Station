@@ -1,0 +1,2 @@
+-- V8: Create bookclub tables
+-- TODO: Add book_club, club_member, club_discussion tables

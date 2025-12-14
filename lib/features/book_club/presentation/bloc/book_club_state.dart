@@ -1,0 +1,1 @@
+// TODO: Define BookClubState classes

@@ -1,0 +1,2 @@
+-- V7: Create gamification tables
+-- TODO: Add achievement, user_achievement, reading_streak, reading_goal tables

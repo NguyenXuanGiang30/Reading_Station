@@ -1,0 +1,2 @@
+-- V4: Create note tables  
+-- TODO: Add note, audio_note, key_takeaway tables

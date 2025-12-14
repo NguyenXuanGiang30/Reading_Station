@@ -1,0 +1,2 @@
+-- V9: Create analytics tables
+-- TODO: Add reading_stats, user_analytics tables

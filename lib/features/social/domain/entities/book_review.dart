@@ -1,0 +1,1 @@
+// TODO: Define BookReview entity (FR10.1)

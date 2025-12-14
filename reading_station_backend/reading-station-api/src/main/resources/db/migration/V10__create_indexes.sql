@@ -1,0 +1,2 @@
+-- V10: Create indexes for better performance
+-- TODO: Add indexes on frequently queried columns

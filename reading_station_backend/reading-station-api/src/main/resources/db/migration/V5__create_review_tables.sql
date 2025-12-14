@@ -1,0 +1,2 @@
+-- V5: Create review tables
+-- TODO: Add flashcard, review_history, review_schedule tables

@@ -1,0 +1,2 @@
+-- V2: Create user tables
+-- TODO: Add user, role, and user_settings tables

@@ -1,0 +1,2 @@
+-- V6: Create social tables
+-- TODO: Add friendship, activity, book_review, reading_list tables
